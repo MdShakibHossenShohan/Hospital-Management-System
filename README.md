@@ -1,2 +1,2 @@
 # Hospital-Management-System
-A Hospital Management System in Java OOP would consist of classes like Patient, Doctor, Nurse, and Admin, each with attributes and methods for managing information and tasks relevant to their roles.
+A Hospital Management System in Java OOP would consist of classes like Patient, Doctor, Nurse, and Admin, each with attributes and methods for managing information and tasks relevant to their roles. Additional classes like Appointment and Medical Record would handle scheduling and medical data. The main Hospital class would coordinate interactions between these entities. The challenge is to ensure a smooth user experience. 
